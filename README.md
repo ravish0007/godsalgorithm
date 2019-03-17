@@ -3,7 +3,7 @@ A file ciphering program, produces Dots (.)  in a randomized manner
 
 
 * This is basically composed to showcase how one can create their own enigma to achieve ultimate privacy in the world, 
-using the power of modern languages like python and ofcourse the MATH guy himself.
+using the power of modern languages like python and of course with the MATH guy himself.
 
 
 * The Algorithm is very simple, "THIS IS NOT EVEN CLOSE TO DATA ENCRYPTION STANDARDS,(DES)", try not use this in critical 
@@ -16,6 +16,8 @@ so that I and everybody could learn something out of it.
 
 
 
-################################################################################################################
+
+
+#################################################################################################
 #   ALGORITHM
-################################################################################################################
+#################################################################################################
