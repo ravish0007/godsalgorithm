@@ -18,7 +18,7 @@ so that I and everybody could learn something out of it.
 * sorry for not using argparse, will be implementing soon 
 
 
-<b> The different Encodings of character 'a' is as follows </b>
+<b> The different Encodings of character 'a' is as follows </b><br>
 a) <b> .    ........  . ...   ... ..   ...   .. ..  ....  .... . .. ... .    .   . . </b><br>
 b) <b> .  . .  .... ...... .......  . ....  .. ....  ..  ...  ... ...         ..    ..  . .. </b><br>
 c) <b> . . .  . ..........  . ...  ......  ... ...  ..  ...  .   .   ....  .. ..   ..... .  </b><br>
