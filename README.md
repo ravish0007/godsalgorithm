@@ -15,9 +15,6 @@ best use of it.
 so that I and everybody could learn something out of it.
 
 
+* sorry for not using argparse, will be implementing soon 
 
 
-
-#################################################################################################
-#   ALGORITHM
-#################################################################################################
