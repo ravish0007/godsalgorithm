@@ -18,7 +18,7 @@ so that I and everybody could learn something out of it.
 * sorry for not using argparse, will be implementing soon 
 
 
-<b> The different Encodings of character 'a' is as follows </b><br>
+<b> * The different Encodings of character 'a' is as follows </b><br>
 a) <b> .    ........  . ...   ... ..   ...   .. ..  ....  .... . .. ... .    .   . . </b><br>
 b) <b> .  . .  .... ...... .......  . ....  .. ....  ..  ...  ... ...         ..    ..  . .. </b><br>
 c) <b> . . .  . ..........  . ...  ......  ... ...  ..  ...  .   .   ....  .. ..   ..... .  </b><br>
@@ -27,4 +27,8 @@ e) <b>....      .  .  . .. ..... ..  ....  .......   .. ...  .. .. .  . ...  .  
 f) <b> . .. ..  .. .    ..  . .  . . ....  .. ....  ... ...   ......  .. ... .   .. .. ..  .</b><br>
 
 <br>
-<b> It is possible to encode any File  in the above manner and has weak checksum verifier </b>
+<b> * It is possible to encode any File  in the above manner and has weak checksum verifier. </b><br><br>
+
+
+<b> Encoding of  the <i>'lazy fox jumps over the lazy dog'</i></b><br>
+ ........    .  .    ...  .. .  ...  .......   .. ...  .  ...     . ..    . .   . ..... .   .. ..  . ...  ..  .....    .   ..... . . .   ...  .. . . .       .  .. .. .. .     ...  . ....     .. ...   .  ..      ...  . ....     . .. .    . . .   .  ..     .....    ....  . ......   .  .      . . .   .. .      .. ..  ..  ..  . ...    ... ...     .  .. .... ..    . .. .   .. ..  . ... .  ...  ..    .   .  .. ... .   ....       . ......  . .     ...  . .....    ..  . . .   ...   .  ...   ..      .. ..   ... .<br>
