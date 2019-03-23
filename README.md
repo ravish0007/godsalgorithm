@@ -18,3 +18,12 @@ so that I and everybody could learn something out of it.
 * sorry for not using argparse, will be implementing soon 
 
 
+<b> The different Encodings of character 'a' is as follows </b>
+a) <b> .    ........  . ...   ... ..   ...   .. ..  ....  .... . .. ... .    .   . . </b><br>
+b) <b> .  . .  .... ...... .......  . ....  .. ....  ..  ...  ... ...         ..    ..  . .. </b><br>
+c) <b> . . .  . ..........  . ...  ......  ... ...  ..  ...  .   .   ....  .. ..   ..... .  </b><br>
+d) <b>    .   ...     ... ...  ....   ...  .. ....  ... ...  ....... . . . .    .  .. . . ..  ...  . </b><br>
+e) <b>....      .  .  . .. ..... ..  ....  .......   .. ...  .. .. .  . ...  .    .</b><br>
+f) <b> . .. ..  .. .    ..  . .  . . ....  .. ....  ... ...   ......  .. ... .   .. .. ..  .</b><br>
+
+
