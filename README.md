@@ -26,4 +26,5 @@ d) <b>    .   ...     ... ...  ....   ...  .. ....  ... ...  ....... . . . .    
 e) <b>....      .  .  . .. ..... ..  ....  .......   .. ...  .. .. .  . ...  .    .</b><br>
 f) <b> . .. ..  .. .    ..  . .  . . ....  .. ....  ... ...   ......  .. ... .   .. .. ..  .</b><br>
 
-
+<br>
+<b> It is possible to encode any File  in the above manner and has weak checksum verifier </b>
