@@ -30,5 +30,5 @@ f) <b> . .. ..  .. .    ..  . .  . . ....  .. ....  ... ...   ......  .. ... .  
 <b> * It is possible to encode any File  in the above manner and has weak checksum verifier. </b><br><br>
 
 
-<b> Encoding of  the <i>'lazy fox jumps over the lazy dog'</i></b><br>
+#<b> Encoding of  the <i>'lazy fox jumps over the lazy dog'</i></b><br>
  ........    .  .    ...  .. .  ...  .......   .. ...  .  ...     . ..    . .   . ..... .   .. ..  . ...  ..  .....    .   ..... . . .   ...  .. . . .       .  .. .. .. .     ...  . ....     .. ...   .  ..      ...  . ....     . .. .    . . .   .  ..     .....    ....  . ......   .  .      . . .   .. .      .. ..  ..  ..  . ...    ... ...     .  .. .... ..    . .. .   .. ..  . ... .  ...  ..    .   .  .. ... .   ....       . ......  . .     ...  . .....    ..  . . .   ...   .  ...   ..      .. ..   ... .<br>
